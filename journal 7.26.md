@@ -1,1 +1,1 @@
-Today's Status: Normal / Efficient / Slack
+Today's Status: Normal / Efficient / $\color{red}{Slack}$
